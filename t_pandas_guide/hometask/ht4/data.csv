@@ -1,0 +1,801 @@
+Occupation,Company,City,Min_salary,Max_salary,Experience,Date
+Data Analyst,ITSolutions,Москва,182000.0,408000.0,5.0,2023-11-15
+DevOps Engineer,GameDev,Казань,191000.0,481000.0,4.0,2023-04-20
+Product Manager,ITSolutions,Уфа,101000.0,118000.0,2.0,2023-12-15
+Backend Developer,DataMasters,Москва,101000.0,121000.0,2.0,2023-06-15
+QA Engineer,AIVentures,Новосибирск,107000.0,345000.0,5.0,2023-12-28
+QA Engineer,AIVentures,Москва,133000.0,144000.0,1.0,2023-10-22
+UI/UX Designer,ITSolutions,Москва,113000.0,202000.0,2.0,2023-12-15
+Python Developer,TechCorp,Екатеринбург,148000.0,160000.0,3.0,2023-08-12
+Frontend Developer,GameDev,Москва,101000.0,121000.0,2.0,2023-05-30
+Machine Learning Engineer,ITSolutions,Нижний Новгород,146000.0,159000.0,8.0,2023-03-24
+Product Manager,TechCorp,Нижний Новгород,173000.0,308000.0,6.0,2023-01-17
+Backend Developer,TechCorp,Екатеринбург,152000.0,321000.0,3.0,2023-07-24
+Machine Learning Engineer,AIVentures,Казань,171000.0,416000.0,2.0,2023-05-22
+Python Developer,MobileTech,Екатеринбург,180000.0,288000.0,3.0,2023-06-13
+Python Developer,CloudNine,Ростов-на-Дону,170000.0,450000.0,5.0,2023-06-12
+Data Analyst,DataMasters,Омск,98000.0,293000.0,2.0,2023-03-17
+UI/UX Designer,DataMasters,Санкт-Петербург,150000.0,161000.0,2.0,2023-06-25
+UI/UX Designer,GameDev,Екатеринбург,138000.0,152000.0,2.0,2023-11-28
+QA Engineer,DataMasters,Омск,138000.0,152000.0,6.0,2023-04-03
+Data Analyst,TechCorp,Санкт-Петербург,128000.0,141000.0,0.0,2023-12-04
+QA Engineer,GameDev,Москва,99000.0,208000.0,5.0,2023-10-16
+Machine Learning Engineer,DataMasters,Омск,150000.0,170000.0,0.0,2023-07-15
+UI/UX Designer,FinTech,Екатеринбург,194000.0,216000.0,4.0,2023-01-11
+Backend Developer,ITSolutions,Москва,144000.0,161000.0,5.0,2023-01-31
+Machine Learning Engineer,AIVentures,Ростов-на-Дону,142000.0,158000.0,3.0,2023-05-07
+Data Analyst,GameDev,Омск,131000.0,148000.0,5.0,2023-09-20
+Data Analyst,DataMasters,Ростов-на-Дону,140000.0,154000.0,5.0,2023-05-25
+QA Engineer,MobileTech,Казань,109000.0,126000.0,2.0,2023-04-05
+DevOps Engineer,WebStudio,Санкт-Петербург,138000.0,151000.0,7.0,2023-02-03
+Machine Learning Engineer,WebStudio,Екатеринбург,159000.0,410000.0,4.0,2023-05-19
+Machine Learning Engineer,AIVentures,Казань,63000.0,123000.0,4.0,2023-02-04
+Data Analyst,WebStudio,Самара,116000.0,127000.0,2.0,2023-01-20
+Frontend Developer,CyberSec,Уфа,141000.0,333000.0,5.0,2023-01-24
+Machine Learning Engineer,MobileTech,Москва,102000.0,118000.0,5.0,2023-09-03
+QA Engineer,CloudNine,Нижний Новгород,131000.0,143000.0,8.0,2023-12-20
+Data Analyst,ITSolutions,Казань,126000.0,140000.0,4.0,2023-01-05
+UI/UX Designer,MobileTech,Екатеринбург,105000.0,123000.0,6.0,2023-05-29
+Java Engineer,ITSolutions,Казань,111000.0,128000.0,3.0,2023-07-31
+Java Engineer,WebStudio,Казань,127000.0,180000.0,3.0,2023-03-09
+Machine Learning Engineer,ITSolutions,Нижний Новгород,189000.0,272000.0,3.0,2023-09-04
+Frontend Developer,CloudNine,Уфа,134000.0,198000.0,5.0,2023-06-07
+DevOps Engineer,WebStudio,Омск,179000.0,414000.0,3.0,2023-09-28
+Product Manager,FinTech,Москва,117000.0,128000.0,7.0,2023-09-02
+Python Developer,TechCorp,Нижний Новгород,131000.0,144000.0,0.0,2023-06-09
+Backend Developer,WebStudio,Екатеринбург,126000.0,136000.0,4.0,2023-01-04
+Java Engineer,TechCorp,Москва,181000.0,429000.0,7.0,2023-12-17
+DevOps Engineer,GameDev,Самара,84000.0,215000.0,3.0,2023-11-06
+DevOps Engineer,FinTech,Самара,132000.0,146000.0,8.0,2023-01-06
+Frontend Developer,FinTech,Казань,116000.0,297000.0,3.0,2023-01-31
+Data Analyst,AIVentures,Новосибирск,63000.0,190000.0,7.0,2023-08-13
+Frontend Developer,FinTech,Санкт-Петербург,84000.0,257000.0,5.0,2023-06-07
+UI/UX Designer,DataMasters,Ростов-на-Дону,113000.0,129000.0,4.0,2023-10-18
+Frontend Developer,CyberSec,Уфа,74000.0,355000.0,5.0,2023-07-16
+Python Developer,GameDev,Екатеринбург,126000.0,146000.0,5.0,2023-02-02
+Java Engineer,GameDev,Казань,127000.0,146000.0,5.0,2023-07-07
+Product Manager,FinTech,Нижний Новгород,136000.0,147000.0,0.0,2023-10-17
+UI/UX Designer,CloudNine,Самара,114000.0,124000.0,0.0,2023-05-08
+Java Engineer,MobileTech,Новосибирск,108000.0,118000.0,5.0,2023-02-07
+Java Engineer,DataMasters,Москва,102000.0,119000.0,3.0,2023-12-23
+Python Developer,AIVentures,Омск,128000.0,145000.0,9.0,2023-06-22
+Backend Developer,ITSolutions,Самара,142000.0,152000.0,4.0,2023-04-14
+Frontend Developer,AIVentures,Москва,133000.0,319000.0,5.0,2023-08-09
+Frontend Developer,GameDev,Нижний Новгород,137000.0,152000.0,2.0,2023-09-28
+UI/UX Designer,DataMasters,Екатеринбург,143000.0,160000.0,3.0,2023-10-11
+Java Engineer,MobileTech,Самара,106000.0,352000.0,2.0,2023-03-04
+Data Analyst,DataMasters,Казань,105000.0,196000.0,6.0,2023-03-07
+Java Engineer,CyberSec,Ростов-на-Дону,107000.0,119000.0,6.0,2023-02-17
+Data Analyst,WebStudio,Уфа,74000.0,122000.0,9.0,2023-05-05
+Product Manager,CloudNine,Санкт-Петербург,92000.0,384000.0,5.0,2023-03-13
+Data Analyst,CyberSec,Уфа,83000.0,130000.0,3.0,2023-03-03
+Java Engineer,CloudNine,Новосибирск,132000.0,147000.0,2.0,2023-02-18
+Data Analyst,GameDev,Санкт-Петербург,138000.0,152000.0,4.0,2023-09-26
+Product Manager,ITSolutions,Казань,200000.0,362000.0,2.0,2023-04-29
+UI/UX Designer,WebStudio,Самара,118000.0,137000.0,3.0,2023-02-24
+Java Engineer,DataMasters,Новосибирск,171000.0,357000.0,6.0,2023-08-29
+Product Manager,TechCorp,Екатеринбург,157000.0,258000.0,8.0,2023-04-06
+Product Manager,FinTech,Казань,112000.0,141000.0,4.0,2023-10-14
+DevOps Engineer,TechCorp,Екатеринбург,125000.0,199000.0,4.0,2023-06-01
+UI/UX Designer,CyberSec,Москва,134000.0,147000.0,2.0,2023-12-21
+Product Manager,TechCorp,Казань,65000.0,320000.0,2.0,2023-09-22
+Product Manager,DataMasters,Москва,108000.0,128000.0,3.0,2023-03-11
+Java Engineer,FinTech,Санкт-Петербург,77000.0,237000.0,8.0,2023-11-30
+Machine Learning Engineer,CloudNine,Самара,186000.0,301000.0,4.0,2023-10-18
+QA Engineer,GameDev,Новосибирск,108000.0,121000.0,4.0,2023-11-30
+Machine Learning Engineer,CloudNine,Санкт-Петербург,133000.0,148000.0,7.0,2023-09-09
+Backend Developer,ITSolutions,Москва,112000.0,130000.0,5.0,2023-04-12
+DevOps Engineer,FinTech,Нижний Новгород,83000.0,197000.0,5.0,2023-08-14
+DevOps Engineer,CyberSec,Омск,111000.0,128000.0,6.0,2023-04-28
+Machine Learning Engineer,CyberSec,Нижний Новгород,136000.0,152000.0,2.0,2023-08-03
+QA Engineer,CyberSec,Самара,103000.0,113000.0,1.0,2023-02-16
+UI/UX Designer,DataMasters,Москва,181000.0,356000.0,3.0,2023-06-19
+Machine Learning Engineer,GameDev,Уфа,117000.0,134000.0,7.0,2023-08-06
+Java Engineer,MobileTech,Уфа,103000.0,263000.0,4.0,2023-04-19
+DevOps Engineer,CloudNine,Ростов-на-Дону,125000.0,142000.0,6.0,2023-12-29
+Frontend Developer,WebStudio,Санкт-Петербург,136000.0,153000.0,5.0,2023-04-24
+Backend Developer,CloudNine,Омск,106000.0,122000.0,0.0,2023-02-10
+DevOps Engineer,ITSolutions,Уфа,129000.0,147000.0,6.0,2023-04-19
+Product Manager,ITSolutions,Уфа,114000.0,129000.0,5.0,2023-09-15
+Java Engineer,AIVentures,Самара,63000.0,207000.0,5.0,2023-06-03
+Machine Learning Engineer,DataMasters,Москва,194000.0,475000.0,1.0,2023-08-07
+Data Analyst,MobileTech,Ростов-на-Дону,126000.0,138000.0,5.0,2023-08-11
+DevOps Engineer,ITSolutions,Казань,139000.0,159000.0,1.0,2023-11-26
+Backend Developer,GameDev,Нижний Новгород,103000.0,118000.0,5.0,2023-05-01
+Machine Learning Engineer,CyberSec,Омск,140000.0,256000.0,4.0,2023-04-21
+QA Engineer,CloudNine,Новосибирск,139000.0,152000.0,8.0,2023-04-17
+Product Manager,GameDev,Екатеринбург,179000.0,374000.0,0.0,2023-09-13
+Frontend Developer,TechCorp,Нижний Новгород,69000.0,336000.0,3.0,2023-02-01
+Frontend Developer,DataMasters,Санкт-Петербург,102000.0,280000.0,2.0,2023-07-17
+UI/UX Designer,FinTech,Новосибирск,147000.0,164000.0,5.0,2023-07-10
+QA Engineer,DataMasters,Самара,118000.0,132000.0,3.0,2023-11-04
+Product Manager,MobileTech,Новосибирск,106000.0,383000.0,3.0,2023-05-25
+Machine Learning Engineer,FinTech,Москва,132000.0,145000.0,4.0,2023-06-22
+Backend Developer,AIVentures,Нижний Новгород,126000.0,144000.0,5.0,2023-07-10
+Python Developer,TechCorp,Нижний Новгород,139000.0,273000.0,9.0,2023-09-22
+Frontend Developer,WebStudio,Нижний Новгород,117000.0,135000.0,5.0,2023-10-22
+Backend Developer,MobileTech,Самара,144000.0,161000.0,8.0,2023-07-14
+Python Developer,GameDev,Санкт-Петербург,150000.0,169000.0,5.0,2023-03-26
+Machine Learning Engineer,AIVentures,Санкт-Петербург,141000.0,411000.0,4.0,2023-10-21
+Product Manager,CloudNine,Екатеринбург,189000.0,456000.0,5.0,2023-04-05
+Java Engineer,DataMasters,Ростов-на-Дону,177000.0,363000.0,7.0,2023-11-03
+Data Analyst,WebStudio,Ростов-на-Дону,118000.0,130000.0,0.0,2023-03-23
+Backend Developer,CloudNine,Ростов-на-Дону,133000.0,147000.0,9.0,2023-11-04
+QA Engineer,MobileTech,Казань,145000.0,159000.0,3.0,2023-09-15
+Frontend Developer,GameDev,Москва,60000.0,141000.0,4.0,2023-07-03
+Machine Learning Engineer,MobileTech,Новосибирск,149000.0,191000.0,5.0,2023-10-06
+Python Developer,CloudNine,Омск,95000.0,255000.0,2.0,2023-08-16
+Product Manager,CloudNine,Самара,118000.0,131000.0,5.0,2023-01-10
+Python Developer,MobileTech,Санкт-Петербург,72000.0,307000.0,8.0,2023-11-02
+Product Manager,WebStudio,Уфа,140000.0,158000.0,4.0,2023-06-14
+QA Engineer,MobileTech,Санкт-Петербург,129000.0,145000.0,4.0,2023-08-07
+Frontend Developer,MobileTech,Новосибирск,163000.0,270000.0,5.0,2023-07-31
+Data Analyst,FinTech,Казань,133000.0,147000.0,7.0,2023-07-17
+QA Engineer,WebStudio,Омск,152000.0,323000.0,2.0,2023-04-14
+Machine Learning Engineer,DataMasters,Уфа,105000.0,124000.0,3.0,2023-03-26
+Python Developer,CyberSec,Нижний Новгород,140000.0,152000.0,3.0,2023-09-26
+Python Developer,AIVentures,Самара,116000.0,414000.0,0.0,2023-12-18
+Python Developer,TechCorp,Уфа,158000.0,230000.0,2.0,2023-10-12
+Data Analyst,DataMasters,Самара,120000.0,133000.0,6.0,2023-09-23
+Python Developer,CloudNine,Уфа,199000.0,429000.0,3.0,2023-08-14
+UI/UX Designer,TechCorp,Москва,108000.0,127000.0,5.0,2023-03-15
+Machine Learning Engineer,AIVentures,Казань,124000.0,138000.0,4.0,2023-01-09
+DevOps Engineer,TechCorp,Уфа,139000.0,153000.0,1.0,2023-05-29
+UI/UX Designer,CyberSec,Ростов-на-Дону,125000.0,281000.0,4.0,2023-10-20
+Machine Learning Engineer,CloudNine,Омск,117000.0,129000.0,2.0,2023-11-07
+Java Engineer,CyberSec,Екатеринбург,81000.0,144000.0,3.0,2023-11-07
+DevOps Engineer,ITSolutions,Ростов-на-Дону,192000.0,255000.0,2.0,2023-02-12
+Machine Learning Engineer,MobileTech,Екатеринбург,99000.0,123000.0,3.0,2023-08-25
+UI/UX Designer,FinTech,Новосибирск,144000.0,160000.0,6.0,2023-10-04
+Backend Developer,MobileTech,Самара,138000.0,194000.0,1.0,2023-08-17
+Product Manager,DataMasters,Омск,79000.0,286000.0,7.0,2023-03-14
+UI/UX Designer,WebStudio,Казань,120000.0,219000.0,2.0,2023-01-04
+QA Engineer,CyberSec,Екатеринбург,60000.0,104000.0,3.0,2023-09-18
+Frontend Developer,MobileTech,Новосибирск,180000.0,450000.0,5.0,2023-05-12
+Product Manager,GameDev,Новосибирск,100000.0,115000.0,2.0,2023-02-06
+Product Manager,AIVentures,Екатеринбург,161000.0,226000.0,3.0,2023-10-09
+Java Engineer,GameDev,Омск,100000.0,114000.0,5.0,2023-04-07
+Java Engineer,CyberSec,Ростов-на-Дону,166000.0,207000.0,2.0,2023-02-20
+Python Developer,TechCorp,Москва,113000.0,133000.0,5.0,2023-04-26
+Backend Developer,MobileTech,Омск,188000.0,286000.0,0.0,2023-02-17
+DevOps Engineer,FinTech,Уфа,52000.0,174000.0,0.0,2023-09-04
+Machine Learning Engineer,AIVentures,Самара,113000.0,285000.0,5.0,2023-09-17
+Data Analyst,AIVentures,Москва,95000.0,277000.0,2.0,2023-01-31
+Product Manager,CyberSec,Самара,121000.0,138000.0,2.0,2023-04-23
+QA Engineer,CloudNine,Казань,116000.0,136000.0,0.0,2023-11-09
+Java Engineer,CyberSec,Москва,130000.0,141000.0,4.0,2023-11-06
+Product Manager,CyberSec,Ростов-на-Дону,125000.0,144000.0,3.0,2023-04-11
+Data Analyst,TechCorp,Москва,135000.0,364000.0,5.0,2023-02-10
+QA Engineer,CloudNine,Уфа,173000.0,349000.0,1.0,2023-09-10
+Backend Developer,AIVentures,Самара,196000.0,428000.0,4.0,2023-06-20
+Product Manager,MobileTech,Самара,199000.0,331000.0,2.0,2023-10-10
+Product Manager,DataMasters,Уфа,100000.0,120000.0,1.0,2023-10-12
+Python Developer,DataMasters,Новосибирск,123000.0,281000.0,4.0,2023-02-04
+Python Developer,WebStudio,Москва,98000.0,152000.0,2.0,2023-01-14
+QA Engineer,ITSolutions,Омск,166000.0,317000.0,2.0,2023-06-30
+QA Engineer,MobileTech,Новосибирск,131000.0,149000.0,9.0,2023-10-25
+Python Developer,CloudNine,Уфа,99000.0,354000.0,5.0,2023-04-22
+Backend Developer,FinTech,Новосибирск,127000.0,137000.0,7.0,2023-05-20
+Product Manager,CloudNine,Нижний Новгород,192000.0,289000.0,3.0,2023-04-08
+Java Engineer,GameDev,Ростов-на-Дону,117000.0,210000.0,3.0,2023-11-26
+Machine Learning Engineer,WebStudio,Санкт-Петербург,143000.0,158000.0,4.0,2023-11-24
+Frontend Developer,AIVentures,Уфа,120000.0,136000.0,2.0,2023-08-29
+UI/UX Designer,FinTech,Санкт-Петербург,189000.0,386000.0,4.0,2023-05-21
+Java Engineer,TechCorp,Самара,143000.0,162000.0,4.0,2023-01-07
+QA Engineer,WebStudio,Новосибирск,131000.0,142000.0,9.0,2023-08-19
+Backend Developer,AIVentures,Новосибирск,68000.0,109000.0,3.0,2023-01-04
+Data Analyst,MobileTech,Омск,97000.0,194000.0,4.0,2023-04-19
+UI/UX Designer,FinTech,Казань,136000.0,373000.0,5.0,2023-01-25
+DevOps Engineer,MobileTech,Омск,121000.0,134000.0,2.0,2023-01-31
+QA Engineer,AIVentures,Нижний Новгород,66000.0,207000.0,1.0,2023-05-25
+DevOps Engineer,WebStudio,Ростов-на-Дону,109000.0,129000.0,2.0,2023-10-05
+Python Developer,CloudNine,Санкт-Петербург,98000.0,303000.0,5.0,2023-03-30
+Frontend Developer,GameDev,Самара,120000.0,131000.0,5.0,2023-08-22
+QA Engineer,AIVentures,Санкт-Петербург,142000.0,370000.0,2.0,2023-03-29
+Python Developer,ITSolutions,Нижний Новгород,106000.0,116000.0,2.0,2023-12-07
+Data Analyst,WebStudio,Омск,110000.0,130000.0,3.0,2023-04-30
+QA Engineer,FinTech,Казань,122000.0,138000.0,3.0,2023-12-30
+UI/UX Designer,GameDev,Омск,51000.0,184000.0,5.0,2023-10-24
+Data Analyst,MobileTech,Уфа,120000.0,140000.0,2.0,2023-04-13
+Java Engineer,DataMasters,Омск,142000.0,421000.0,6.0,2023-08-25
+Machine Learning Engineer,ITSolutions,Омск,124000.0,144000.0,2.0,2023-01-16
+UI/UX Designer,WebStudio,Омск,141000.0,151000.0,4.0,2023-07-12
+UI/UX Designer,CyberSec,Ростов-на-Дону,50000.0,159000.0,6.0,2023-05-31
+QA Engineer,CloudNine,Новосибирск,87000.0,167000.0,5.0,2023-09-04
+Data Analyst,MobileTech,Уфа,141000.0,151000.0,4.0,2023-07-28
+Machine Learning Engineer,GameDev,Екатеринбург,120000.0,133000.0,3.0,2023-05-05
+DevOps Engineer,GameDev,Уфа,133000.0,150000.0,7.0,2023-08-23
+Java Engineer,ITSolutions,Ростов-на-Дону,138000.0,166000.0,3.0,2023-06-25
+Python Developer,MobileTech,Санкт-Петербург,138000.0,379000.0,3.0,2023-09-30
+DevOps Engineer,AIVentures,Казань,76000.0,178000.0,2.0,2023-11-18
+Data Analyst,CloudNine,Омск,93000.0,186000.0,7.0,2023-02-02
+Java Engineer,GameDev,Казань,64000.0,134000.0,2.0,2023-02-02
+Product Manager,CloudNine,Екатеринбург,137000.0,152000.0,9.0,2023-09-25
+Backend Developer,TechCorp,Санкт-Петербург,70000.0,322000.0,5.0,2023-12-01
+QA Engineer,DataMasters,Новосибирск,102000.0,117000.0,7.0,2023-05-12
+Java Engineer,DataMasters,Ростов-на-Дону,118000.0,134000.0,3.0,2023-10-24
+Python Developer,WebStudio,Самара,136000.0,153000.0,3.0,2023-05-07
+Data Analyst,FinTech,Санкт-Петербург,192000.0,214000.0,4.0,2023-01-22
+Data Analyst,ITSolutions,Ростов-на-Дону,111000.0,125000.0,7.0,2023-06-10
+UI/UX Designer,CyberSec,Москва,158000.0,366000.0,1.0,2023-10-02
+QA Engineer,DataMasters,Новосибирск,143000.0,163000.0,5.0,2023-11-11
+Data Analyst,FinTech,Москва,136000.0,432000.0,4.0,2023-05-08
+Frontend Developer,FinTech,Омск,126000.0,144000.0,6.0,2023-08-12
+QA Engineer,AIVentures,Казань,110000.0,129000.0,5.0,2023-08-31
+Python Developer,DataMasters,Уфа,129000.0,146000.0,9.0,2023-11-05
+Product Manager,GameDev,Нижний Новгород,90000.0,175000.0,6.0,2023-05-18
+DevOps Engineer,MobileTech,Омск,134000.0,255000.0,4.0,2023-06-29
+Product Manager,CloudNine,Екатеринбург,197000.0,472000.0,0.0,2023-11-23
+DevOps Engineer,CyberSec,Нижний Новгород,131000.0,149000.0,7.0,2023-09-15
+Java Engineer,CloudNine,Екатеринбург,191000.0,461000.0,1.0,2023-02-04
+UI/UX Designer,ITSolutions,Нижний Новгород,132000.0,221000.0,5.0,2023-08-10
+DevOps Engineer,MobileTech,Новосибирск,151000.0,291000.0,6.0,2023-02-11
+Data Analyst,FinTech,Ростов-на-Дону,196000.0,284000.0,5.0,2023-05-04
+Machine Learning Engineer,FinTech,Омск,122000.0,141000.0,4.0,2023-03-15
+Product Manager,GameDev,Самара,124000.0,135000.0,2.0,2023-01-26
+UI/UX Designer,DataMasters,Омск,107000.0,126000.0,3.0,2023-05-10
+DevOps Engineer,CloudNine,Самара,147000.0,167000.0,3.0,2023-01-27
+QA Engineer,WebStudio,Новосибирск,147000.0,162000.0,5.0,2023-10-25
+QA Engineer,GameDev,Омск,126000.0,139000.0,7.0,2023-04-23
+Frontend Developer,GameDev,Москва,143000.0,154000.0,0.0,2023-11-05
+UI/UX Designer,CyberSec,Омск,120000.0,313000.0,8.0,2023-05-19
+Java Engineer,CyberSec,Уфа,105000.0,123000.0,2.0,2023-07-01
+Python Developer,CyberSec,Самара,101000.0,116000.0,4.0,2023-02-07
+Java Engineer,GameDev,Омск,124000.0,135000.0,4.0,2023-09-07
+Frontend Developer,FinTech,Казань,135000.0,154000.0,9.0,2023-04-19
+Machine Learning Engineer,GameDev,Казань,110000.0,361000.0,2.0,2023-12-09
+Frontend Developer,GameDev,Москва,147000.0,166000.0,3.0,2023-09-27
+Machine Learning Engineer,GameDev,Нижний Новгород,131000.0,385000.0,6.0,2023-05-12
+Product Manager,MobileTech,Санкт-Петербург,62000.0,130000.0,2.0,2023-10-31
+Python Developer,WebStudio,Омск,118000.0,295000.0,4.0,2023-12-17
+Python Developer,MobileTech,Нижний Новгород,119000.0,130000.0,3.0,2023-12-17
+Data Analyst,GameDev,Новосибирск,116000.0,126000.0,0.0,2023-03-13
+Java Engineer,WebStudio,Новосибирск,78000.0,90000.0,1.0,2023-09-28
+Python Developer,DataMasters,Нижний Новгород,84000.0,116000.0,3.0,2023-10-28
+Frontend Developer,CyberSec,Самара,152000.0,447000.0,2.0,2023-06-16
+Python Developer,AIVentures,Москва,122000.0,273000.0,1.0,2023-06-02
+QA Engineer,AIVentures,Казань,103000.0,119000.0,4.0,2023-08-01
+DevOps Engineer,ITSolutions,Новосибирск,111000.0,124000.0,5.0,2023-06-13
+UI/UX Designer,AIVentures,Ростов-на-Дону,102000.0,121000.0,3.0,2023-05-04
+UI/UX Designer,DataMasters,Омск,128000.0,147000.0,5.0,2023-06-26
+Machine Learning Engineer,ITSolutions,Самара,167000.0,185000.0,3.0,2023-01-11
+Machine Learning Engineer,MobileTech,Нижний Новгород,180000.0,442000.0,5.0,2023-10-26
+Product Manager,GameDev,Нижний Новгород,120000.0,139000.0,3.0,2023-04-30
+Frontend Developer,TechCorp,Санкт-Петербург,75000.0,98000.0,2.0,2023-01-12
+DevOps Engineer,DataMasters,Нижний Новгород,126000.0,143000.0,4.0,2023-12-03
+Data Analyst,WebStudio,Самара,146000.0,161000.0,4.0,2023-06-28
+Python Developer,CloudNine,Уфа,190000.0,439000.0,4.0,2023-03-06
+Java Engineer,TechCorp,Самара,113000.0,128000.0,1.0,2023-01-16
+DevOps Engineer,FinTech,Санкт-Петербург,114000.0,133000.0,5.0,2023-12-19
+UI/UX Designer,DataMasters,Самара,148000.0,168000.0,2.0,2023-10-27
+Python Developer,ITSolutions,Нижний Новгород,160000.0,331000.0,5.0,2023-03-14
+Java Engineer,MobileTech,Ростов-на-Дону,117000.0,329000.0,4.0,2023-12-13
+Data Analyst,GameDev,Уфа,59000.0,340000.0,4.0,2023-02-13
+Python Developer,DataMasters,Нижний Новгород,118000.0,133000.0,3.0,2023-10-20
+UI/UX Designer,DataMasters,Нижний Новгород,125000.0,135000.0,3.0,2023-05-10
+Data Analyst,TechCorp,Самара,132000.0,148000.0,4.0,2023-05-12
+UI/UX Designer,FinTech,Ростов-на-Дону,145000.0,165000.0,5.0,2023-08-30
+Machine Learning Engineer,WebStudio,Омск,95000.0,158000.0,5.0,2023-08-23
+Java Engineer,AIVentures,Новосибирск,118000.0,133000.0,2.0,2023-11-24
+Frontend Developer,WebStudio,Нижний Новгород,186000.0,406000.0,1.0,2023-05-22
+DevOps Engineer,DataMasters,Санкт-Петербург,164000.0,332000.0,5.0,2023-07-27
+QA Engineer,ITSolutions,Санкт-Петербург,122000.0,136000.0,6.0,2023-02-02
+UI/UX Designer,FinTech,Екатеринбург,131000.0,144000.0,4.0,2023-11-01
+Machine Learning Engineer,TechCorp,Омск,113000.0,123000.0,4.0,2023-06-30
+Frontend Developer,GameDev,Новосибирск,172000.0,425000.0,4.0,2023-11-07
+DevOps Engineer,TechCorp,Самара,168000.0,430000.0,7.0,2023-08-26
+Product Manager,DataMasters,Самара,122000.0,139000.0,4.0,2023-10-31
+Product Manager,GameDev,Ростов-на-Дону,130000.0,276000.0,4.0,2023-06-18
+Java Engineer,FinTech,Казань,197000.0,297000.0,6.0,2023-08-02
+Machine Learning Engineer,MobileTech,Новосибирск,110000.0,128000.0,5.0,2023-09-12
+Python Developer,MobileTech,Омск,143000.0,158000.0,6.0,2023-06-08
+Backend Developer,TechCorp,Омск,106000.0,123000.0,5.0,2023-01-01
+QA Engineer,CyberSec,Нижний Новгород,123000.0,138000.0,4.0,2023-09-26
+Machine Learning Engineer,GameDev,Санкт-Петербург,150000.0,164000.0,4.0,2023-09-12
+Product Manager,DataMasters,Екатеринбург,193000.0,214000.0,5.0,2023-08-27
+Data Analyst,CyberSec,Москва,135000.0,146000.0,3.0,2023-01-22
+Python Developer,MobileTech,Самара,148000.0,167000.0,2.0,2023-12-14
+Python Developer,TechCorp,Омск,111000.0,122000.0,4.0,2023-09-07
+Frontend Developer,ITSolutions,Нижний Новгород,77000.0,121000.0,4.0,2023-02-18
+Python Developer,FinTech,Новосибирск,129000.0,313000.0,5.0,2023-04-19
+Machine Learning Engineer,MobileTech,Екатеринбург,123000.0,133000.0,4.0,2023-12-11
+Frontend Developer,DataMasters,Казань,143000.0,154000.0,2.0,2023-01-21
+UI/UX Designer,GameDev,Уфа,130000.0,140000.0,2.0,2023-10-06
+Product Manager,CyberSec,Новосибирск,111000.0,381000.0,5.0,2023-08-26
+Frontend Developer,DataMasters,Уфа,64000.0,163000.0,5.0,2023-10-27
+Data Analyst,WebStudio,Москва,131000.0,143000.0,3.0,2023-04-17
+Data Analyst,FinTech,Ростов-на-Дону,128000.0,146000.0,4.0,2023-05-05
+Machine Learning Engineer,AIVentures,Омск,175000.0,227000.0,9.0,2023-06-19
+Product Manager,AIVentures,Санкт-Петербург,168000.0,187000.0,3.0,2023-12-29
+DevOps Engineer,ITSolutions,Уфа,108000.0,122000.0,2.0,2023-06-19
+QA Engineer,TechCorp,Екатеринбург,121000.0,141000.0,5.0,2023-07-13
+UI/UX Designer,MobileTech,Омск,159000.0,248000.0,2.0,2023-07-12
+Backend Developer,AIVentures,Нижний Новгород,123000.0,136000.0,2.0,2023-03-25
+Backend Developer,WebStudio,Санкт-Петербург,65000.0,266000.0,8.0,2023-04-06
+Java Engineer,CyberSec,Москва,115000.0,266000.0,3.0,2023-08-20
+Data Analyst,GameDev,Санкт-Петербург,97000.0,172000.0,3.0,2023-09-23
+Python Developer,WebStudio,Москва,111000.0,125000.0,3.0,2023-03-17
+Product Manager,DataMasters,Новосибирск,183000.0,451000.0,3.0,2023-02-15
+Product Manager,ITSolutions,Санкт-Петербург,109000.0,128000.0,5.0,2023-07-02
+DevOps Engineer,DataMasters,Ростов-на-Дону,74000.0,316000.0,4.0,2023-10-19
+QA Engineer,DataMasters,Нижний Новгород,149000.0,164000.0,3.0,2023-01-31
+DevOps Engineer,GameDev,Москва,107000.0,120000.0,3.0,2023-05-08
+Frontend Developer,WebStudio,Казань,149000.0,164000.0,2.0,2023-03-07
+Backend Developer,GameDev,Уфа,65000.0,144000.0,5.0,2023-05-20
+DevOps Engineer,GameDev,Нижний Новгород,105000.0,120000.0,5.0,2023-02-08
+QA Engineer,DataMasters,Нижний Новгород,175000.0,445000.0,4.0,2023-12-18
+Machine Learning Engineer,FinTech,Ростов-на-Дону,152000.0,327000.0,3.0,2023-11-14
+DevOps Engineer,GameDev,Ростов-на-Дону,129000.0,148000.0,4.0,2023-01-16
+Java Engineer,TechCorp,Казань,128000.0,151000.0,2.0,2023-10-09
+Product Manager,CyberSec,Омск,135000.0,152000.0,6.0,2023-02-11
+Data Analyst,MobileTech,Нижний Новгород,143000.0,154000.0,3.0,2023-02-26
+Machine Learning Engineer,DataMasters,Москва,126000.0,142000.0,1.0,2023-02-19
+Data Analyst,CyberSec,Москва,132000.0,146000.0,3.0,2023-09-19
+Python Developer,GameDev,Новосибирск,139000.0,152000.0,4.0,2023-04-24
+Data Analyst,ITSolutions,Новосибирск,118000.0,133000.0,2.0,2023-07-20
+DevOps Engineer,CloudNine,Екатеринбург,90000.0,117000.0,4.0,2023-09-13
+Java Engineer,CloudNine,Ростов-на-Дону,124000.0,143000.0,7.0,2023-01-11
+Machine Learning Engineer,CyberSec,Ростов-на-Дону,114000.0,182000.0,3.0,2023-11-08
+Java Engineer,FinTech,Ростов-на-Дону,111000.0,131000.0,2.0,2023-12-12
+Data Analyst,ITSolutions,Москва,178000.0,469000.0,3.0,2023-08-27
+DevOps Engineer,CloudNine,Москва,131000.0,151000.0,3.0,2023-07-04
+Data Analyst,TechCorp,Новосибирск,127000.0,146000.0,8.0,2023-09-25
+Product Manager,WebStudio,Ростов-на-Дону,110000.0,129000.0,3.0,2023-09-09
+Java Engineer,DataMasters,Москва,137000.0,394000.0,5.0,2023-09-08
+QA Engineer,TechCorp,Новосибирск,130000.0,385000.0,8.0,2023-01-08
+DevOps Engineer,MobileTech,Омск,114000.0,134000.0,5.0,2023-03-20
+Data Analyst,MobileTech,Москва,125000.0,145000.0,5.0,2023-07-31
+DevOps Engineer,GameDev,Уфа,63000.0,340000.0,8.0,2023-03-29
+UI/UX Designer,MobileTech,Екатеринбург,135000.0,369000.0,5.0,2023-07-11
+Machine Learning Engineer,MobileTech,Нижний Новгород,127000.0,147000.0,3.0,2023-07-22
+Backend Developer,MobileTech,Москва,122000.0,140000.0,2.0,2023-06-22
+Backend Developer,WebStudio,Екатеринбург,141000.0,155000.0,9.0,2023-07-18
+Product Manager,MobileTech,Казань,124000.0,141000.0,6.0,2023-05-14
+DevOps Engineer,TechCorp,Казань,101000.0,119000.0,0.0,2023-01-18
+Python Developer,DataMasters,Екатеринбург,75000.0,102000.0,1.0,2023-03-19
+UI/UX Designer,CyberSec,Москва,68000.0,338000.0,5.0,2023-08-06
+Frontend Developer,DataMasters,Москва,136000.0,146000.0,5.0,2023-04-19
+Data Analyst,CloudNine,Нижний Новгород,167000.0,392000.0,2.0,2023-09-03
+Machine Learning Engineer,TechCorp,Екатеринбург,76000.0,362000.0,9.0,2023-06-18
+QA Engineer,TechCorp,Новосибирск,127000.0,138000.0,4.0,2023-02-14
+QA Engineer,CyberSec,Екатеринбург,160000.0,254000.0,4.0,2023-01-19
+Product Manager,TechCorp,Москва,177000.0,477000.0,3.0,2023-05-20
+Data Analyst,GameDev,Уфа,130000.0,147000.0,2.0,2023-10-17
+UI/UX Designer,GameDev,Омск,94000.0,285000.0,1.0,2023-05-20
+Machine Learning Engineer,MobileTech,Казань,122000.0,138000.0,0.0,2023-02-03
+Backend Developer,GameDev,Уфа,165000.0,397000.0,2.0,2023-06-11
+Java Engineer,GameDev,Екатеринбург,85000.0,192000.0,5.0,2023-12-30
+Data Analyst,FinTech,Нижний Новгород,129000.0,143000.0,5.0,2023-10-11
+DevOps Engineer,CyberSec,Омск,64000.0,222000.0,6.0,2023-10-28
+Python Developer,ITSolutions,Уфа,114000.0,178000.0,9.0,2023-03-03
+Product Manager,FinTech,Нижний Новгород,150000.0,246000.0,3.0,2023-06-12
+Backend Developer,TechCorp,Уфа,107000.0,262000.0,2.0,2023-06-16
+Machine Learning Engineer,CyberSec,Уфа,154000.0,370000.0,1.0,2023-10-24
+Java Engineer,CyberSec,Санкт-Петербург,125000.0,135000.0,2.0,2023-01-10
+Data Analyst,CyberSec,Екатеринбург,137000.0,147000.0,2.0,2023-03-06
+UI/UX Designer,WebStudio,Уфа,100000.0,110000.0,2.0,2023-08-30
+QA Engineer,GameDev,Омск,179000.0,269000.0,4.0,2023-08-15
+Product Manager,AIVentures,Санкт-Петербург,55000.0,284000.0,5.0,2023-10-07
+Machine Learning Engineer,FinTech,Новосибирск,104000.0,164000.0,4.0,2023-06-23
+DevOps Engineer,TechCorp,Казань,106000.0,116000.0,5.0,2023-07-18
+Java Engineer,TechCorp,Самара,119000.0,139000.0,2.0,2023-03-21
+Data Analyst,GameDev,Ростов-на-Дону,102000.0,183000.0,5.0,2023-01-28
+Data Analyst,ITSolutions,Москва,125000.0,158000.0,5.0,2023-05-24
+Python Developer,GameDev,Новосибирск,61000.0,307000.0,4.0,2023-06-04
+Backend Developer,MobileTech,Москва,197000.0,469000.0,8.0,2023-02-10
+Data Analyst,WebStudio,Казань,139000.0,403000.0,2.0,2023-09-14
+UI/UX Designer,ITSolutions,Нижний Новгород,83000.0,287000.0,3.0,2023-09-14
+DevOps Engineer,ITSolutions,Ростов-на-Дону,136000.0,156000.0,4.0,2023-07-14
+DevOps Engineer,AIVentures,Ростов-на-Дону,164000.0,429000.0,6.0,2023-10-01
+Machine Learning Engineer,DataMasters,Москва,113000.0,125000.0,6.0,2023-07-09
+UI/UX Designer,TechCorp,Ростов-на-Дону,97000.0,202000.0,3.0,2023-06-04
+DevOps Engineer,AIVentures,Нижний Новгород,135000.0,150000.0,4.0,2023-02-26
+Python Developer,WebStudio,Омск,136000.0,391000.0,5.0,2023-12-11
+Machine Learning Engineer,AIVentures,Москва,132000.0,151000.0,7.0,2023-09-23
+Backend Developer,DataMasters,Казань,174000.0,468000.0,1.0,2023-05-29
+Java Engineer,FinTech,Екатеринбург,81000.0,121000.0,5.0,2023-09-09
+Product Manager,AIVentures,Нижний Новгород,60000.0,213000.0,0.0,2023-11-17
+Backend Developer,MobileTech,Уфа,148000.0,248000.0,5.0,2023-06-05
+Frontend Developer,MobileTech,Нижний Новгород,190000.0,406000.0,2.0,2023-02-09
+Python Developer,ITSolutions,Ростов-на-Дону,69000.0,81000.0,2.0,2023-12-22
+UI/UX Designer,MobileTech,Казань,119000.0,256000.0,7.0,2023-12-16
+Java Engineer,CloudNine,Казань,98000.0,246000.0,5.0,2023-01-06
+Python Developer,CloudNine,Москва,73000.0,135000.0,5.0,2023-04-17
+DevOps Engineer,DataMasters,Ростов-на-Дону,186000.0,413000.0,5.0,2023-12-16
+UI/UX Designer,AIVentures,Москва,138000.0,414000.0,3.0,2023-03-07
+Frontend Developer,GameDev,Самара,134000.0,239000.0,8.0,2023-06-22
+Data Analyst,GameDev,Ростов-на-Дону,127000.0,208000.0,5.0,2023-07-13
+Machine Learning Engineer,WebStudio,Екатеринбург,147000.0,308000.0,3.0,2023-05-17
+Product Manager,WebStudio,Уфа,122000.0,132000.0,0.0,2023-07-12
+DevOps Engineer,FinTech,Омск,132000.0,312000.0,5.0,2023-12-08
+Backend Developer,TechCorp,Самара,129000.0,139000.0,4.0,2023-03-06
+DevOps Engineer,TechCorp,Уфа,92000.0,256000.0,7.0,2023-07-28
+UI/UX Designer,WebStudio,Уфа,100000.0,117000.0,3.0,2023-09-22
+Data Analyst,AIVentures,Москва,145000.0,160000.0,5.0,2023-05-26
+Machine Learning Engineer,FinTech,Санкт-Петербург,130000.0,140000.0,5.0,2023-12-17
+DevOps Engineer,GameDev,Уфа,147000.0,163000.0,2.0,2023-04-21
+Frontend Developer,AIVentures,Казань,126000.0,146000.0,4.0,2023-01-27
+UI/UX Designer,CyberSec,Москва,101000.0,124000.0,5.0,2023-03-19
+Product Manager,CyberSec,Уфа,143000.0,154000.0,4.0,2023-06-06
+Frontend Developer,CloudNine,Ростов-на-Дону,93000.0,212000.0,5.0,2023-11-11
+DevOps Engineer,CloudNine,Ростов-на-Дону,183000.0,365000.0,2.0,2023-11-02
+Machine Learning Engineer,CyberSec,Екатеринбург,136000.0,149000.0,4.0,2023-09-20
+QA Engineer,ITSolutions,Омск,112000.0,372000.0,0.0,2023-12-11
+Frontend Developer,GameDev,Екатеринбург,123000.0,142000.0,4.0,2023-12-21
+Java Engineer,AIVentures,Санкт-Петербург,61000.0,87000.0,4.0,2023-07-02
+Python Developer,CyberSec,Екатеринбург,129000.0,261000.0,3.0,2023-11-23
+DevOps Engineer,FinTech,Уфа,110000.0,334000.0,3.0,2023-06-20
+Java Engineer,AIVentures,Омск,189000.0,401000.0,3.0,2023-03-01
+Machine Learning Engineer,AIVentures,Москва,142000.0,155000.0,8.0,2023-02-05
+Data Analyst,CloudNine,Омск,105000.0,125000.0,2.0,2023-03-30
+Product Manager,MobileTech,Уфа,64000.0,165000.0,5.0,2023-10-16
+DevOps Engineer,DataMasters,Москва,120000.0,171000.0,2.0,2023-11-21
+UI/UX Designer,AIVentures,Омск,119000.0,273000.0,3.0,2023-11-27
+Backend Developer,CyberSec,Нижний Новгород,51000.0,154000.0,5.0,2023-06-16
+Java Engineer,AIVentures,Екатеринбург,87000.0,221000.0,9.0,2023-07-01
+UI/UX Designer,WebStudio,Уфа,52000.0,188000.0,2.0,2023-11-28
+DevOps Engineer,WebStudio,Самара,136000.0,148000.0,2.0,2023-02-15
+DevOps Engineer,DataMasters,Новосибирск,118000.0,136000.0,3.0,2023-12-22
+Python Developer,MobileTech,Казань,136000.0,151000.0,2.0,2023-08-13
+Backend Developer,CloudNine,Москва,118000.0,132000.0,4.0,2023-06-10
+Java Engineer,TechCorp,Казань,145000.0,159000.0,4.0,2023-11-29
+UI/UX Designer,WebStudio,Санкт-Петербург,145000.0,156000.0,3.0,2023-04-05
+QA Engineer,CyberSec,Самара,71000.0,302000.0,9.0,2023-05-12
+Python Developer,WebStudio,Уфа,143000.0,190000.0,0.0,2023-02-28
+UI/UX Designer,CloudNine,Уфа,123000.0,137000.0,3.0,2023-04-03
+Data Analyst,MobileTech,Самара,102000.0,113000.0,4.0,2023-12-25
+Machine Learning Engineer,CloudNine,Москва,159000.0,414000.0,5.0,2023-11-27
+QA Engineer,AIVentures,Ростов-на-Дону,149000.0,163000.0,2.0,2023-12-16
+Backend Developer,CyberSec,Москва,52000.0,281000.0,1.0,2023-12-02
+Frontend Developer,CloudNine,Ростов-на-Дону,115000.0,126000.0,2.0,2023-10-27
+UI/UX Designer,ITSolutions,Москва,67000.0,121000.0,4.0,2023-04-17
+QA Engineer,AIVentures,Самара,100000.0,343000.0,2.0,2023-01-27
+DevOps Engineer,GameDev,Санкт-Петербург,100000.0,350000.0,6.0,2023-08-31
+Frontend Developer,CloudNine,Казань,107000.0,231000.0,7.0,2023-03-10
+Data Analyst,ITSolutions,Омск,61000.0,172000.0,7.0,2023-06-27
+Machine Learning Engineer,AIVentures,Санкт-Петербург,110000.0,121000.0,9.0,2023-08-25
+Product Manager,CloudNine,Уфа,138000.0,209000.0,2.0,2023-03-29
+QA Engineer,MobileTech,Екатеринбург,100000.0,119000.0,1.0,2023-09-13
+QA Engineer,ITSolutions,Самара,95000.0,208000.0,6.0,2023-07-25
+Frontend Developer,CloudNine,Москва,175000.0,267000.0,5.0,2023-06-17
+Product Manager,WebStudio,Нижний Новгород,108000.0,244000.0,5.0,2023-07-02
+Product Manager,WebStudio,Казань,122000.0,136000.0,5.0,2023-05-31
+DevOps Engineer,MobileTech,Самара,145000.0,353000.0,3.0,2023-02-21
+Product Manager,CyberSec,Екатеринбург,54000.0,88000.0,5.0,2023-09-05
+QA Engineer,TechCorp,Омск,62000.0,197000.0,2.0,2023-01-02
+DevOps Engineer,CloudNine,Нижний Новгород,55000.0,343000.0,1.0,2023-04-30
+Java Engineer,TechCorp,Казань,149000.0,161000.0,2.0,2023-01-19
+QA Engineer,MobileTech,Санкт-Петербург,134000.0,151000.0,3.0,2023-05-01
+Machine Learning Engineer,WebStudio,Нижний Новгород,113000.0,208000.0,4.0,2023-04-25
+QA Engineer,ITSolutions,Нижний Новгород,126000.0,245000.0,2.0,2023-04-12
+Data Analyst,CyberSec,Санкт-Петербург,127000.0,255000.0,2.0,2023-01-16
+Data Analyst,ITSolutions,Санкт-Петербург,101000.0,112000.0,5.0,2023-03-02
+UI/UX Designer,GameDev,Новосибирск,170000.0,295000.0,4.0,2023-06-29
+QA Engineer,CyberSec,Омск,106000.0,124000.0,2.0,2023-02-10
+DevOps Engineer,WebStudio,Уфа,135000.0,152000.0,6.0,2023-05-21
+Frontend Developer,MobileTech,Нижний Новгород,76000.0,372000.0,3.0,2023-10-21
+Backend Developer,AIVentures,Уфа,197000.0,415000.0,0.0,2023-09-11
+UI/UX Designer,AIVentures,Новосибирск,109000.0,123000.0,2.0,2023-04-06
+Machine Learning Engineer,WebStudio,Самара,120000.0,132000.0,3.0,2023-02-23
+QA Engineer,AIVentures,Москва,114000.0,396000.0,4.0,2023-09-10
+UI/UX Designer,CloudNine,Уфа,113000.0,133000.0,3.0,2023-08-31
+Java Engineer,TechCorp,Новосибирск,131000.0,364000.0,5.0,2023-01-10
+UI/UX Designer,FinTech,Санкт-Петербург,89000.0,221000.0,8.0,2023-10-09
+Frontend Developer,FinTech,Нижний Новгород,104000.0,124000.0,5.0,2023-10-02
+Python Developer,FinTech,Омск,200000.0,434000.0,4.0,2023-11-03
+Data Analyst,DataMasters,Казань,110000.0,125000.0,3.0,2023-12-10
+UI/UX Designer,GameDev,Новосибирск,123000.0,137000.0,5.0,2023-12-24
+Product Manager,CyberSec,Нижний Новгород,113000.0,133000.0,4.0,2023-09-25
+Java Engineer,WebStudio,Омск,104000.0,124000.0,8.0,2023-05-05
+Java Engineer,DataMasters,Новосибирск,134000.0,150000.0,5.0,2023-04-15
+Python Developer,TechCorp,Казань,105000.0,115000.0,5.0,2023-07-12
+Data Analyst,CyberSec,Самара,88000.0,356000.0,8.0,2023-10-29
+Java Engineer,MobileTech,Ростов-на-Дону,122000.0,230000.0,5.0,2023-05-16
+Python Developer,GameDev,Омск,126000.0,262000.0,2.0,2023-08-19
+Java Engineer,DataMasters,Новосибирск,153000.0,356000.0,3.0,2023-11-19
+Frontend Developer,GameDev,Казань,116000.0,351000.0,4.0,2023-03-06
+Data Analyst,FinTech,Новосибирск,192000.0,240000.0,3.0,2023-11-16
+DevOps Engineer,MobileTech,Самара,111000.0,123000.0,6.0,2023-01-16
+QA Engineer,ITSolutions,Санкт-Петербург,136000.0,147000.0,5.0,2023-05-19
+Backend Developer,DataMasters,Омск,63000.0,257000.0,4.0,2023-07-20
+Python Developer,AIVentures,Омск,148000.0,160000.0,3.0,2023-06-20
+Product Manager,TechCorp,Омск,138000.0,155000.0,2.0,2023-05-11
+Machine Learning Engineer,GameDev,Омск,115000.0,412000.0,5.0,2023-02-17
+DevOps Engineer,CyberSec,Новосибирск,93000.0,225000.0,4.0,2023-11-25
+Product Manager,ITSolutions,Екатеринбург,167000.0,232000.0,3.0,2023-09-12
+Backend Developer,ITSolutions,Екатеринбург,101000.0,121000.0,2.0,2023-10-17
+Java Engineer,GameDev,Омск,147000.0,412000.0,3.0,2023-05-05
+Java Engineer,WebStudio,Казань,127000.0,146000.0,5.0,2023-03-08
+QA Engineer,FinTech,Новосибирск,80000.0,159000.0,1.0,2023-08-06
+Frontend Developer,MobileTech,Санкт-Петербург,105000.0,125000.0,5.0,2023-07-30
+Data Analyst,WebStudio,Уфа,117000.0,176000.0,4.0,2023-10-11
+Backend Developer,CyberSec,Ростов-на-Дону,101000.0,390000.0,9.0,2023-03-27
+Python Developer,GameDev,Екатеринбург,119000.0,276000.0,4.0,2023-04-30
+QA Engineer,GameDev,Москва,135000.0,409000.0,3.0,2023-06-08
+UI/UX Designer,ITSolutions,Уфа,144000.0,162000.0,5.0,2023-12-13
+DevOps Engineer,CyberSec,Уфа,68000.0,360000.0,3.0,2023-01-01
+QA Engineer,FinTech,Омск,92000.0,255000.0,6.0,2023-01-25
+DevOps Engineer,CyberSec,Москва,194000.0,376000.0,7.0,2023-07-27
+Product Manager,GameDev,Санкт-Петербург,120000.0,141000.0,4.0,2023-07-20
+Java Engineer,CyberSec,Екатеринбург,112000.0,123000.0,2.0,2023-09-20
+UI/UX Designer,GameDev,Москва,167000.0,340000.0,5.0,2023-03-07
+Machine Learning Engineer,FinTech,Ростов-на-Дону,114000.0,133000.0,2.0,2023-03-08
+Product Manager,ITSolutions,Ростов-на-Дону,107000.0,124000.0,9.0,2023-09-28
+Python Developer,AIVentures,Казань,111000.0,131000.0,2.0,2023-06-21
+Java Engineer,DataMasters,Уфа,56000.0,167000.0,4.0,2023-03-06
+Product Manager,MobileTech,Санкт-Петербург,130000.0,142000.0,0.0,2023-10-04
+Machine Learning Engineer,AIVentures,Екатеринбург,127000.0,371000.0,2.0,2023-12-30
+Machine Learning Engineer,DataMasters,Самара,63000.0,328000.0,3.0,2023-11-04
+Machine Learning Engineer,MobileTech,Санкт-Петербург,175000.0,231000.0,9.0,2023-01-04
+Frontend Developer,GameDev,Москва,147000.0,217000.0,6.0,2023-11-26
+UI/UX Designer,TechCorp,Самара,140000.0,160000.0,3.0,2023-05-17
+Product Manager,DataMasters,Казань,81000.0,377000.0,5.0,2023-09-07
+QA Engineer,CloudNine,Екатеринбург,170000.0,216000.0,1.0,2023-05-25
+Backend Developer,CloudNine,Екатеринбург,141000.0,156000.0,5.0,2023-06-17
+Data Analyst,CloudNine,Уфа,190000.0,453000.0,2.0,2023-11-20
+Frontend Developer,CyberSec,Омск,113000.0,124000.0,5.0,2023-02-14
+Frontend Developer,FinTech,Новосибирск,146000.0,165000.0,4.0,2023-12-28
+UI/UX Designer,CyberSec,Ростов-на-Дону,105000.0,121000.0,2.0,2023-07-14
+UI/UX Designer,CyberSec,Уфа,193000.0,316000.0,2.0,2023-04-19
+QA Engineer,CloudNine,Екатеринбург,106000.0,122000.0,5.0,2023-07-03
+DevOps Engineer,AIVentures,Казань,82000.0,118000.0,2.0,2023-03-09
+DevOps Engineer,DataMasters,Екатеринбург,143000.0,250000.0,3.0,2023-05-26
+Frontend Developer,GameDev,Уфа,146000.0,160000.0,2.0,2023-07-03
+Machine Learning Engineer,MobileTech,Казань,184000.0,392000.0,5.0,2023-08-30
+Backend Developer,DataMasters,Ростов-на-Дону,56000.0,205000.0,2.0,2023-07-13
+QA Engineer,FinTech,Уфа,131000.0,145000.0,3.0,2023-05-11
+QA Engineer,TechCorp,Казань,122000.0,133000.0,5.0,2023-05-27
+UI/UX Designer,TechCorp,Самара,147000.0,410000.0,2.0,2023-07-25
+Frontend Developer,ITSolutions,Уфа,122000.0,382000.0,8.0,2023-09-07
+Data Analyst,DataMasters,Нижний Новгород,108000.0,127000.0,2.0,2023-03-06
+Data Analyst,CloudNine,Ростов-на-Дону,119000.0,132000.0,2.0,2023-09-08
+Machine Learning Engineer,DataMasters,Новосибирск,104000.0,116000.0,8.0,2023-12-18
+Frontend Developer,MobileTech,Казань,146000.0,161000.0,3.0,2023-07-29
+Machine Learning Engineer,TechCorp,Нижний Новгород,124000.0,138000.0,7.0,2023-05-12
+Frontend Developer,TechCorp,Самара,132000.0,151000.0,5.0,2023-03-20
+Product Manager,AIVentures,Москва,127000.0,279000.0,1.0,2023-11-19
+Java Engineer,TechCorp,Нижний Новгород,104000.0,116000.0,2.0,2023-08-16
+Backend Developer,TechCorp,Новосибирск,135000.0,194000.0,5.0,2023-11-16
+Python Developer,CyberSec,Новосибирск,144000.0,280000.0,6.0,2023-11-27
+UI/UX Designer,AIVentures,Новосибирск,110000.0,147000.0,3.0,2023-03-31
+UI/UX Designer,GameDev,Екатеринбург,148000.0,167000.0,5.0,2023-06-17
+Python Developer,GameDev,Казань,135000.0,145000.0,4.0,2023-06-10
+Machine Learning Engineer,TechCorp,Ростов-на-Дону,140000.0,151000.0,0.0,2023-04-26
+Frontend Developer,GameDev,Ростов-на-Дону,128000.0,148000.0,1.0,2023-11-18
+Java Engineer,WebStudio,Санкт-Петербург,150000.0,167000.0,1.0,2023-07-27
+QA Engineer,CloudNine,Омск,59000.0,309000.0,5.0,2023-03-22
+DevOps Engineer,DataMasters,Омск,144000.0,157000.0,5.0,2023-09-19
+DevOps Engineer,DataMasters,Уфа,108000.0,251000.0,5.0,2023-10-02
+Product Manager,WebStudio,Нижний Новгород,129000.0,145000.0,0.0,2023-01-20
+Python Developer,CyberSec,Омск,128000.0,145000.0,9.0,2023-06-24
+Machine Learning Engineer,CloudNine,Москва,80000.0,197000.0,4.0,2023-04-21
+DevOps Engineer,AIVentures,Новосибирск,138000.0,402000.0,5.0,2023-11-13
+UI/UX Designer,AIVentures,Ростов-на-Дону,148000.0,158000.0,5.0,2023-05-04
+Python Developer,ITSolutions,Самара,93000.0,393000.0,4.0,2023-07-09
+Java Engineer,CloudNine,Москва,122000.0,241000.0,4.0,2023-01-12
+Data Analyst,FinTech,Екатеринбург,110000.0,122000.0,3.0,2023-10-02
+Python Developer,FinTech,Самара,140000.0,155000.0,2.0,2023-09-15
+Python Developer,AIVentures,Нижний Новгород,140000.0,160000.0,1.0,2023-11-26
+UI/UX Designer,MobileTech,Самара,136000.0,206000.0,6.0,2023-12-24
+UI/UX Designer,GameDev,Уфа,115000.0,129000.0,8.0,2023-11-12
+Machine Learning Engineer,MobileTech,Ростов-на-Дону,116000.0,135000.0,3.0,2023-11-04
+DevOps Engineer,MobileTech,Уфа,126000.0,200000.0,6.0,2023-01-23
+Product Manager,GameDev,Ростов-на-Дону,113000.0,126000.0,2.0,2023-01-01
+Product Manager,CloudNine,Казань,188000.0,355000.0,4.0,2023-12-05
+Java Engineer,DataMasters,Екатеринбург,101000.0,116000.0,3.0,2023-06-04
+Frontend Developer,CyberSec,Москва,159000.0,252000.0,9.0,2023-07-21
+Machine Learning Engineer,DataMasters,Нижний Новгород,126000.0,138000.0,6.0,2023-03-21
+DevOps Engineer,WebStudio,Екатеринбург,125000.0,139000.0,0.0,2023-08-26
+Java Engineer,DataMasters,Новосибирск,107000.0,127000.0,6.0,2023-04-17
+Backend Developer,ITSolutions,Новосибирск,173000.0,245000.0,0.0,2023-11-14
+QA Engineer,WebStudio,Омск,149000.0,164000.0,0.0,2023-12-30
+UI/UX Designer,GameDev,Уфа,74000.0,124000.0,0.0,2023-02-21
+Java Engineer,ITSolutions,Нижний Новгород,109000.0,405000.0,9.0,2023-05-30
+Backend Developer,DataMasters,Омск,105000.0,121000.0,6.0,2023-07-28
+Product Manager,TechCorp,Самара,139000.0,155000.0,0.0,2023-06-05
+Data Analyst,MobileTech,Казань,110000.0,130000.0,6.0,2023-06-12
+UI/UX Designer,FinTech,Москва,129000.0,230000.0,8.0,2023-09-17
+DevOps Engineer,DataMasters,Нижний Новгород,65000.0,266000.0,9.0,2023-06-17
+QA Engineer,GameDev,Уфа,143000.0,155000.0,0.0,2023-07-21
+Frontend Developer,TechCorp,Москва,120000.0,131000.0,1.0,2023-11-12
+Product Manager,WebStudio,Новосибирск,148000.0,160000.0,1.0,2023-06-27
+,MobileTech,Омск,131000.0,151000.0,8.0,2023-06-26
+UI/UX Designer,FinTech,Москва,96000.0,179000.0,4.0,2023-07-15
+UI/UX Designer,CyberSec,Самара,141000.0,,5.0,2023-02-16
+Product Manager,AIVentures,Москва,134000.0,,0.0,2023-02-18
+Backend Developer,TechCorp,Санкт-Петербург,105000.0,118000.0,,2023-03-24
+Backend Developer,TechCorp,Новосибирск,142000.0,157000.0,4.0,
+DevOps Engineer,GameDev,,139000.0,154000.0,4.0,2023-04-21
+Java Engineer,TechCorp,Омск,144000.0,,8.0,2023-09-21
+QA Engineer,DataMasters,Омск,124000.0,219000.0,9.0,2023-08-28
+QA Engineer,CloudNine,,50000.0,215000.0,9.0,2023-02-14
+Data Analyst,DataMasters,Санкт-Петербург,152000.0,,6.0,2023-08-16
+Java Engineer,MobileTech,Омск,110000.0,120000.0,0.0,2023-02-15
+Backend Developer,TechCorp,,117000.0,136000.0,6.0,2023-10-21
+DevOps Engineer,MobileTech,Ростов-на-Дону,124000.0,320000.0,9.0,
+DevOps Engineer,WebStudio,Уфа,120000.0,254000.0,2.0,2023-04-20
+Backend Developer,ITSolutions,Екатеринбург,,256000.0,8.0,2023-03-22
+Machine Learning Engineer,ITSolutions,Нижний Новгород,135000.0,271000.0,2.0,2023-11-16
+Data Analyst,FinTech,Самара,124000.0,283000.0,5.0,2023-12-28
+Backend Developer,DataMasters,Санкт-Петербург,180000.0,212000.0,0.0,2023-01-02
+Data Analyst,DataMasters,Казань,148000.0,349000.0,1.0,
+Python Developer,WebStudio,Екатеринбург,69000.0,,5.0,2023-11-04
+UI/UX Designer,FinTech,Самара,,239000.0,2.0,2023-11-05
+QA Engineer,MobileTech,Новосибирск,,307000.0,0.0,2023-01-28
+QA Engineer,DataMasters,,141000.0,314000.0,5.0,2023-12-26
+Java Engineer,,Нижний Новгород,145000.0,232000.0,6.0,2023-01-11
+Python Developer,ITSolutions,Новосибирск,58000.0,279000.0,,2023-10-21
+Frontend Developer,ITSolutions,Санкт-Петербург,120000.0,214000.0,7.0,2023-05-01
+Backend Developer,TechCorp,Новосибирск,,189000.0,4.0,2023-12-12
+Python Developer,CyberSec,,126000.0,393000.0,2.0,2023-02-16
+UI/UX Designer,TechCorp,Москва,90000.0,,0.0,2023-06-21
+QA Engineer,AIVentures,Самара,103000.0,340000.0,1.0,
+Java Engineer,ITSolutions,Ростов-на-Дону,165000.0,331000.0,7.0,
+Frontend Developer,MobileTech,Уфа,,208000.0,0.0,2023-02-28
+,DataMasters,Омск,97000.0,327000.0,0.0,2023-02-22
+DevOps Engineer,MobileTech,Екатеринбург,84000.0,103000.0,,2023-01-26
+,ITSolutions,Новосибирск,75000.0,125000.0,4.0,2023-07-19
+Product Manager,AIVentures,Москва,,348000.0,1.0,2023-09-21
+Machine Learning Engineer,TechCorp,,105000.0,233000.0,9.0,2023-06-26
+Backend Developer,AIVentures,Казань,141000.0,315000.0,6.0,2023-04-03
+UI/UX Designer,ITSolutions,Нижний Новгород,66000.0,309000.0,0.0,2023-10-25
+DevOps Engineer,GameDev,,58000.0,281000.0,9.0,2023-03-24
+,GameDev,Омск,149000.0,429000.0,0.0,2023-07-07
+Machine Learning Engineer,MobileTech,,165000.0,225000.0,2.0,2023-09-26
+Product Manager,,Санкт-Петербург,118000.0,356000.0,4.0,2023-10-27
+Python Developer,AIVentures,Казань,104000.0,171000.0,,2023-01-21
+DevOps Engineer,FinTech,,137000.0,415000.0,3.0,2023-06-16
+,WebStudio,Омск,159000.0,431000.0,1.0,2023-09-14
+Backend Developer,,Омск,84000.0,241000.0,7.0,2023-06-09
+Python Developer,DataMasters,Самара,,344000.0,1.0,2023-06-08
+Java Engineer,AIVentures,Москва,116000.0,262000.0,9.0,
+Frontend Developer,GameDev,Уфа,163000.0,310000.0,8.0,2023-01-02
+DevOps Engineer,CloudNine,Новосибирск,176000.0,322000.0,9.0,2023-06-21
+QA Engineer,,Казань,196000.0,382000.0,7.0,2023-06-22
+Python Developer,TechCorp,Новосибирск,170000.0,249000.0,,2023-01-03
+Python Developer,AIVentures,Екатеринбург,,149000.0,3.0,2023-11-08
+Product Manager,AIVentures,,119000.0,180000.0,7.0,2023-11-25
+Backend Developer,AIVentures,Ростов-на-Дону,136000.0,,8.0,2023-05-26
+Data Analyst,WebStudio,,62000.0,140000.0,8.0,2023-11-12
+QA Engineer,GameDev,Омск,103000.0,352000.0,,2023-05-13
+Product Manager,CyberSec,Самара,171000.0,,3.0,2023-11-16
+UI/UX Designer,CloudNine,Ростов-на-Дону,74000.0,,7.0,2023-05-11
+Java Engineer,ITSolutions,Нижний Новгород,63000.0,96000.0,2.0,2023-06-14
+Python Developer,ITSolutions,Самара,86000.0,174000.0,3.0,2023-04-02
+DevOps Engineer,FinTech,Нижний Новгород,187000.0,,9.0,2023-12-24
+Frontend Developer,CyberSec,Санкт-Петербург,191000.0,,2.0,2023-10-27
+Machine Learning Engineer,CyberSec,Нижний Новгород,82000.0,263000.0,1.0,
+DevOps Engineer,CloudNine,Самара,174000.0,412000.0,,2023-05-26
+Frontend Developer,AIVentures,Нижний Новгород,132000.0,352000.0,,2023-11-06
+QA Engineer,AIVentures,,176000.0,385000.0,7.0,2023-12-07
+Backend Developer,TechCorp,Екатеринбург,196000.0,,3.0,2023-05-22
+Java Engineer,CloudNine,Ростов-на-Дону,200000.0,414000.0,8.0,2023-10-05
+Machine Learning Engineer,CloudNine,Омск,105000.0,,8.0,2023-06-01
+DevOps Engineer,AIVentures,Екатеринбург,153000.0,309000.0,1.0,2023-04-15
+QA Engineer,,Нижний Новгород,74000.0,166000.0,1.0,2023-11-08
+Backend Developer,WebStudio,Ростов-на-Дону,,496000.0,5.0,2023-01-03
+Frontend Developer,ITSolutions,Уфа,,177000.0,0.0,2023-08-22
+Backend Developer,CyberSec,Санкт-Петербург,114000.0,282000.0,6.0,
+Python Developer,FinTech,Самара,,349000.0,1.0,2023-08-31
+,AIVentures,Казань,180000.0,379000.0,6.0,2023-01-28
+Product Manager,MobileTech,Уфа,53000.0,150000.0,6.0,2023-10-29
+Backend Developer,TechCorp,Санкт-Петербург,64000.0,332000.0,1.0,
+Machine Learning Engineer,FinTech,Москва,135000.0,,8.0,2023-09-14
+Python Developer,DataMasters,,150000.0,284000.0,6.0,2023-09-21
+Data Analyst,CyberSec,Уфа,159000.0,238000.0,5.0,2023-02-22
+Product Manager,FinTech,Омск,,148000.0,1.0,2023-07-25
+Machine Learning Engineer,AIVentures,Москва,,105000.0,2.0,2023-03-15
+DevOps Engineer,GameDev,Омск,60000.0,345000.0,,2023-11-29
+Backend Developer,FinTech,Казань,,195000.0,7.0,2023-03-01
+DevOps Engineer,CyberSec,Санкт-Петербург,128000.0,202000.0,8.0,2023-02-19
+,DataMasters,Казань,195000.0,294000.0,9.0,2023-06-30
+UI/UX Designer,CyberSec,Казань,,454000.0,7.0,2023-09-24
+Machine Learning Engineer,CyberSec,,134000.0,349000.0,8.0,2023-08-09
+DevOps Engineer,DataMasters,Екатеринбург,,434000.0,3.0,2023-07-24
+Frontend Developer,MobileTech,Самара,161000.0,420000.0,9.0,
+Backend Developer,DataMasters,Казань,179000.0,262000.0,3.0,2023-10-03
+QA Engineer,CyberSec,Екатеринбург,,123000.0,4.0,2023-06-08
+Python Developer,WebStudio,Уфа,96000.0,,4.0,2023-10-26
+Backend Developer,,Казань,167000.0,316000.0,2.0,2023-09-18
+Product Manager,,Новосибирск,161000.0,210000.0,8.0,2023-02-15
+Data Analyst,CyberSec,Новосибирск,72000.0,299000.0,7.0,2023-04-09
+DevOps Engineer,CyberSec,,79000.0,214000.0,9.0,2023-09-17
+Data Analyst,MobileTech,Ростов-на-Дону,,438000.0,9.0,2023-04-08
+,WebStudio,Нижний Новгород,166000.0,441000.0,6.0,2023-04-26
+Frontend Developer,CloudNine,,173000.0,233000.0,0.0,2023-11-04
+Data Analyst,GameDev,Самара,138000.0,286000.0,,2023-11-22
+Frontend Developer,AIVentures,Санкт-Петербург,54000.0,280000.0,6.0,
+Python Developer,TechCorp,Екатеринбург,65000.0,,6.0,2023-08-10
+,GameDev,Екатеринбург,197000.0,406000.0,2.0,2023-07-12
+Product Manager,,Нижний Новгород,88000.0,357000.0,4.0,2023-10-25
+Python Developer,FinTech,Новосибирск,178000.0,197000.0,4.0,2023-09-26
+UI/UX Designer,AIVentures,Екатеринбург,134000.0,,3.0,2023-11-30
+Machine Learning Engineer,CloudNine,Екатеринбург,,156000.0,6.0,2023-08-31
+QA Engineer,ITSolutions,Ростов-на-Дону,199000.0,,0.0,2023-09-25
+,CyberSec,Ростов-на-Дону,61000.0,224000.0,4.0,2023-08-21
+,CloudNine,Омск,187000.0,435000.0,7.0,2023-06-25
+Machine Learning Engineer,GameDev,Санкт-Петербург,80000.0,213000.0,5.0,
+,FinTech,Омск,120000.0,407000.0,1.0,2023-12-01
+Java Engineer,,Ростов-на-Дону,161000.0,388000.0,8.0,2023-06-16
+Product Manager,FinTech,Санкт-Петербург,195000.0,275000.0,5.0,2023-04-06
+DevOps Engineer,TechCorp,Омск,151000.0,183000.0,6.0,2023-01-06
+Frontend Developer,GameDev,Ростов-на-Дону,,244000.0,0.0,2023-05-22
+QA Engineer,,Москва,199000.0,348000.0,1.0,2023-10-07
+Python Developer,WebStudio,,149000.0,222000.0,9.0,2023-04-30
+Frontend Developer,,Уфа,89000.0,181000.0,1.0,2023-07-16
+UI/UX Designer,FinTech,Ростов-на-Дону,102000.0,310000.0,5.0,2023-09-28
+DevOps Engineer,CyberSec,Ростов-на-Дону,,438000.0,2.0,2023-02-02
+QA Engineer,CloudNine,,141000.0,187000.0,8.0,2023-12-13
+Frontend Developer,AIVentures,,80000.0,182000.0,3.0,2023-10-18
+Backend Developer,ITSolutions,Самара,146000.0,338000.0,,2023-03-30
+DevOps Engineer,DataMasters,Москва,131000.0,430000.0,,2023-10-11
+Java Engineer,,Москва,63000.0,90000.0,0.0,2023-04-27
+QA Engineer,AIVentures,Ростов-на-Дону,155000.0,,1.0,2023-04-27
+Machine Learning Engineer,CyberSec,Екатеринбург,164000.0,458000.0,8.0,
+Data Analyst,,Ростов-на-Дону,187000.0,471000.0,9.0,2023-12-28
+Data Analyst,CyberSec,Омск,87000.0,157000.0,6.0,2023-04-05
+,FinTech,Новосибирск,126000.0,348000.0,7.0,2023-04-02
+Frontend Developer,TechCorp,Екатеринбург,173000.0,268000.0,,2023-08-27
+Java Engineer,MobileTech,Омск,60000.0,169000.0,,2023-09-17
+Product Manager,DataMasters,Ростов-на-Дону,152000.0,241000.0,,2023-07-30
+,GameDev,Санкт-Петербург,81000.0,236000.0,7.0,2023-03-23
+DevOps Engineer,,Новосибирск,76000.0,259000.0,1.0,2023-02-28
+Backend Developer,DataMasters,Уфа,175000.0,,0.0,2023-09-01
+Data Analyst,TechCorp,Самара,126000.0,313000.0,2.0,
+Product Manager,ITSolutions,Омск,101000.0,,3.0,2023-12-23
+Frontend Developer,AIVentures,Екатеринбург,85000.0,,8.0,2023-10-24
+DevOps Engineer,DataMasters,Москва,169000.0,196000.0,2.0,
+QA Engineer,CyberSec,Казань,63000.0,,4.0,2023-02-08
+Product Manager,GameDev,Нижний Новгород,194000.0,356000.0,9.0,2023-05-01
+Product Manager,AIVentures,Екатеринбург,151000.0,312000.0,4.0,
+Product Manager,,Нижний Новгород,160000.0,230000.0,4.0,2023-03-02
+,ITSolutions,Новосибирск,56000.0,177000.0,2.0,2023-05-25
+DevOps Engineer,,Ростов-на-Дону,125000.0,347000.0,5.0,2023-02-17
+Product Manager,AIVentures,Ростов-на-Дону,182000.0,316000.0,8.0,
+,AIVentures,Нижний Новгород,148000.0,271000.0,7.0,2023-06-06
+,WebStudio,Екатеринбург,172000.0,363000.0,0.0,2023-10-04
+Frontend Developer,AIVentures,,76000.0,297000.0,4.0,2023-02-15
+QA Engineer,GameDev,Нижний Новгород,58000.0,345000.0,3.0,
+,CloudNine,Екатеринбург,132000.0,342000.0,9.0,2023-06-17
+Frontend Developer,WebStudio,Уфа,,314000.0,5.0,2023-11-14
+Backend Developer,DataMasters,Москва,183000.0,335000.0,,2023-08-14
+Backend Developer,ITSolutions,Уфа,80000.0,,0.0,2023-06-16
+Product Manager,,Уфа,195000.0,386000.0,8.0,2023-06-08
+Java Engineer,FinTech,Самара,190000.0,323000.0,,2023-04-14
+Java Engineer,GameDev,Санкт-Петербург,99000.0,,1.0,2023-02-11
+,GameDev,Казань,132000.0,275000.0,8.0,2023-02-22
+,CloudNine,Нижний Новгород,195000.0,293000.0,0.0,2023-12-10
+Python Developer,CloudNine,Самара,83000.0,121000.0,9.0,
+,TechCorp,Уфа,94000.0,374000.0,9.0,2023-03-01
+Frontend Developer,DataMasters,Казань,,240000.0,2.0,2023-12-23
+QA Engineer,CyberSec,Самара,171000.0,184000.0,,2023-05-27
+Product Manager,FinTech,Санкт-Петербург,167000.0,202000.0,8.0,
+DevOps Engineer,GameDev,,150000.0,344000.0,5.0,2023-04-17
+QA Engineer,MobileTech,Санкт-Петербург,162000.0,,6.0,2023-09-10
+Backend Developer,FinTech,Казань,98000.0,282000.0,,2023-01-15
+Backend Developer,WebStudio,Санкт-Петербург,175000.0,301000.0,6.0,
+Python Developer,GameDev,Москва,63000.0,109000.0,2.0,2023-12-27
+Java Engineer,ITSolutions,Ростов-на-Дону,58000.0,303000.0,,2023-04-21
+UI/UX Designer,AIVentures,Омск,187000.0,450000.0,0.0,2023-02-04
+,FinTech,Нижний Новгород,189000.0,467000.0,4.0,2023-12-21
+Machine Learning Engineer,ITSolutions,Москва,165000.0,,3.0,2023-05-03
+Frontend Developer,TechCorp,Екатеринбург,121000.0,180000.0,3.0,
+Data Analyst,TechCorp,Ростов-на-Дону,130000.0,206000.0,3.0,2023-04-14
+UI/UX Designer,,Казань,185000.0,206000.0,1.0,2023-12-03
+Product Manager,WebStudio,Санкт-Петербург,119000.0,200000.0,,2023-06-24
+,GameDev,Омск,89000.0,221000.0,0.0,2023-09-24
+Frontend Developer,CyberSec,,140000.0,209000.0,6.0,2023-10-13
+Data Analyst,ITSolutions,Самара,,377000.0,6.0,2023-06-03
+Backend Developer,GameDev,Нижний Новгород,168000.0,426000.0,0.0,2023-07-29
+,FinTech,Самара,51000.0,246000.0,4.0,2023-09-19
+QA Engineer,ITSolutions,Санкт-Петербург,105000.0,353000.0,,2023-12-20
+Backend Developer,GameDev,Москва,135000.0,,9.0,2023-04-25
+QA Engineer,ITSolutions,Омск,194000.0,223000.0,,2023-11-24
+Python Developer,,Нижний Новгород,192000.0,318000.0,0.0,2023-06-09
+Python Developer,,Нижний Новгород,167000.0,443000.0,0.0,2023-11-22
+Python Developer,DataMasters,,157000.0,448000.0,0.0,2023-08-18
+Frontend Developer,ITSolutions,Омск,,322000.0,6.0,2023-04-24
+,AIVentures,Уфа,148000.0,363000.0,4.0,2023-09-24
+Python Developer,,Нижний Новгород,153000.0,303000.0,5.0,2023-06-17
+Java Engineer,MobileTech,Омск,103000.0,348000.0,7.0,
+Python Developer,CyberSec,Уфа,114000.0,314000.0,0.0,
